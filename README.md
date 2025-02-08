@@ -30,8 +30,15 @@ El programa utiliza valores fijos para el peso (70 kg) y la estatura (1.75 m). L
 * Tu índice de masa corporal (IMC) es: 22.86
 * Esto significa que tienes: Peso normal
 
-
 ## Requisitos
 
 *   Se debe realizar un test unitario de cada método usando TDD (cobertura mínima del 70%).
-*   Cuidado con los commits.
+
+
+<img src="https://pplx-res.cloudinary.com/image/upload/v1739043506/user_uploads/fGDCbDfzYsZxYMy/Diagrama-de-clases-IMC.jpg" width="400">
+
+
+
+
+
+
